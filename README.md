@@ -14,3 +14,24 @@ https://dacon.io/competitions/official/235855/overview/description
 #
 ---
 ## 데이터 탐색 및 전처리
+### 1. 데이터 탐색
+* 객체별 label 및 객체 위치 정보가 포함된 json 파일 train 62622개, test 20874개
+* LabelMe 데이터 포맷
+* Object Class 01_Ulcer, 02_Mass 04_Lymph, 05_Bleeding
+<데이터 시각화 사진>
+### 2. 데이터 전처리
+* 데이터 포맷 변환 : LabelMe -> MS-COCO -> Ultralystic YOLO
+* 데이터 샘플링 : train 10000개, val 2500개, test 2500개
+#
+---
+## 딥러닝 모델 적용
+### 1. 모델 소개
+### 2. 가설 설정
+### 3. training 및 inference
+### 4. evlauation
+#
+---
+## 가설 검정 및 추후 보완방안
+### 1. 가설 검정
+### 2. 한계점 및 추후 보완 방안
+
