@@ -1,4 +1,4 @@
-# Endoscopy_Lesion_Detection
+# Endoscopy Lesion Detection
 ### 캡슐 내시경 소장 병변 검출
 프로젝트 기간 : 2022.03.17- 2022.03.22
 #
