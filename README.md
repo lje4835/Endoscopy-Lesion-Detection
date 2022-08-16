@@ -11,7 +11,7 @@
 #
 ---
 ## 데이터셋
-데이콘 병변 검출 AI 경진대회
+데이콘 병변 검출 AI 경진대회  
 https://dacon.io/competitions/official/235855/overview/description
 #
 ---
